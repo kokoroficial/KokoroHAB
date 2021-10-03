@@ -1,9 +1,7 @@
-function Principal() {
-  return (
-    <>
-      <h1>Hello World</h1>
-    </>
-  );
-}
-
-export default Principal;
+export const Principal = () => {
+    return (
+        <>
+            <h1>Principal</h1>
+        </>
+    );
+};
