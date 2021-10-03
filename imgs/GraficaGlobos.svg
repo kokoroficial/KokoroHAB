@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="693.957" height="545" viewBox="0 0 693.957 545">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.893" y1="0.808" x2="0.074" y2="1.106" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#20ecde"/>
+      <stop offset="0.439" stop-color="#497780"/>
+      <stop offset="1" stop-color="#9991ce"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_13" data-name="Grupo 13" transform="translate(-48.022 -1313.5)">
+    <path id="Trazado_2100" data-name="Trazado 2100" d="M121.176,0C188.1,0,242.352,62.236,242.352,139.008S137.364,266.776,121.176,266.776,0,215.779,0,139.008,54.252,0,121.176,0Z" transform="translate(147.1 1462.235)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_2101" data-name="Trazado 2101" d="M121.176,0C188.1,0,242.352,62.236,242.352,139.008S137.364,313.795,121.176,313.795,0,215.779,0,139.008,54.252,0,121.176,0Z" transform="translate(308.365 1415.217)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_2102" data-name="Trazado 2102" d="M121.176,0C188.1,0,242.352,62.236,242.352,139.008S137.364,369.945,121.176,369.945,0,215.779,0,139.008,54.252,0,121.176,0Z" transform="translate(471.191 1359.032)" fill="url(#linear-gradient)"/>
+    <line id="Línea_1" data-name="Línea 1" x2="3.373" y2="444.142" transform="translate(92.436 1370.283)" fill="none" stroke="#000" stroke-width="3"/>
+    <path id="Trazado_2103" data-name="Trazado 2103" d="M656.456,0H0" transform="translate(71.072 1781.817)" fill="none" stroke="#000" stroke-width="3"/>
+    <path id="Polígono_1" data-name="Polígono 1" d="M14.617,0,29.235,15.742H0Z" transform="matrix(0.017, 1, -1, 0.017, 741.468, 1767.065)"/>
+    <path id="Polígono_2" data-name="Polígono 2" d="M14.617,0,29.235,15.742H0Z" transform="translate(77.819 1357.914)"/>
+    <text id="Presión" transform="translate(625.022 1850.5)" font-size="33" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Presión</tspan></text>
+    <text id="Altura" transform="translate(48.022 1349.5)" font-size="33" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Altura</tspan></text>
+  </g>
+</svg>
