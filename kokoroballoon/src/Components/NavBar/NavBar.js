@@ -4,5 +4,4 @@ export const NavBar = () => {
             <h1>Lesson</h1>
         </div>
     );
-
 };

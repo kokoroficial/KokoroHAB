@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="333" viewBox="0 0 1920 333">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#005ac3"/>
+      <stop offset="0.349" stop-color="#264fb8"/>
+      <stop offset="1" stop-color="#141b81"/>
+    </linearGradient>
+  </defs>
+  <g id="Rectángulo_6" data-name="Rectángulo 6" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+    <path d="M200,0H1920a0,0,0,0,1,0,0V333a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V200A200,200,0,0,1,200,0Z" stroke="none"/>
+    <path d="M200,.5H1919a.5.5,0,0,1,.5.5V332a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V200A199.5,199.5,0,0,1,200,.5Z" fill="none"/>
+  </g>
+</svg>
